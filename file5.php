@@ -80,4 +80,5 @@ function run()
 }
 echo "hi";
 run();
+echo "end";
 
